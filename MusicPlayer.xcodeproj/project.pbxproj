@@ -1,0 +1,492 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		964D0ED91F623B9100CF1E0B /* B3nte - Trippin (Original Mix).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 964D0ECC1F623B9100CF1E0B /* B3nte - Trippin (Original Mix).mp3 */; };
+		964D0EDA1F623B9100CF1E0B /* Bitch Better Have My Money (Diplo & Grandtheft Remix)OFFICIAL.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 964D0ECD1F623B9100CF1E0B /* Bitch Better Have My Money (Diplo & Grandtheft Remix)OFFICIAL.mp3 */; };
+		964D0EDB1F623B9100CF1E0B /* BOIRIA - Stories (Original Mix).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 964D0ECE1F623B9100CF1E0B /* BOIRIA - Stories (Original Mix).mp3 */; };
+		964D0EDC1F623B9100CF1E0B /* Borgore Ft. G-Eazy - Forbes (Prod. By Borgore & Styles&Complete).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 964D0ECF1F623B9100CF1E0B /* Borgore Ft. G-Eazy - Forbes (Prod. By Borgore & Styles&Complete).mp3 */; };
+		964D0EDD1F623B9100CF1E0B /* Deadmau5 X Dillon Francis - Some Chords (Jauz ReRemix).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 964D0ED01F623B9100CF1E0B /* Deadmau5 X Dillon Francis - Some Chords (Jauz ReRemix).mp3 */; };
+		964D0EDE1F623B9100CF1E0B /* Dec3mber & Tryple - Shooting Stars [EDM.com Exclusive].mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 964D0ED11F623B9100CF1E0B /* Dec3mber & Tryple - Shooting Stars [EDM.com Exclusive].mp3 */; };
+		964D0EDF1F623B9100CF1E0B /* Dirtyphonics - Since You've Been Gone feat. Matt Rose (Infuze Remix).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 964D0ED21F623B9100CF1E0B /* Dirtyphonics - Since You've Been Gone feat. Matt Rose (Infuze Remix).mp3 */; };
+		964D0EE01F623B9100CF1E0B /* DJ Snake & Moksi - Pigalle (FVCKDIVMONDS Remix).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 964D0ED31F623B9100CF1E0B /* DJ Snake & Moksi - Pigalle (FVCKDIVMONDS Remix).mp3 */; };
+		964D0EE11F623B9100CF1E0B /* ferrari.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 964D0ED41F623B9100CF1E0B /* ferrari.mp3 */; };
+		964D0EE21F623B9100CF1E0B /* Garmiani - Bomb A Drop.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 964D0ED51F623B9100CF1E0B /* Garmiani - Bomb A Drop.mp3 */; };
+		964D0EE31F623B9100CF1E0B /* Get On Up.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 964D0ED61F623B9100CF1E0B /* Get On Up.mp3 */; };
+		964D0EE41F623B9100CF1E0B /* Ghastly - Every Night.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 964D0ED71F623B9100CF1E0B /* Ghastly - Every Night.mp3 */; };
+		964D0EE51F623B9100CF1E0B /* Ghastly x Dirty Doses - Shock Value [Thissongissick.com Premiere] [Free Download].mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 964D0ED81F623B9100CF1E0B /* Ghastly x Dirty Doses - Shock Value [Thissongissick.com Premiere] [Free Download].mp3 */; };
+		964D0EE71F62476600CF1E0B /* UploadsNewsArticle4949954main.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 964D0EE61F62476600CF1E0B /* UploadsNewsArticle4949954main.jpg */; };
+		96BCB7411F62216000B6EC13 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96BCB7401F62216000B6EC13 /* AppDelegate.swift */; };
+		96BCB7431F62216000B6EC13 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96BCB7421F62216000B6EC13 /* FirstViewController.swift */; };
+		96BCB7451F62216000B6EC13 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96BCB7441F62216000B6EC13 /* SecondViewController.swift */; };
+		96BCB7481F62216100B6EC13 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96BCB7461F62216100B6EC13 /* Main.storyboard */; };
+		96BCB74A1F62216100B6EC13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96BCB7491F62216100B6EC13 /* Assets.xcassets */; };
+		96BCB74D1F62216100B6EC13 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96BCB74B1F62216100B6EC13 /* LaunchScreen.storyboard */; };
+		96BCB7581F62216100B6EC13 /* MusicPlayerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96BCB7571F62216100B6EC13 /* MusicPlayerTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		96BCB7541F62216100B6EC13 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 96BCB7351F62216000B6EC13 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 96BCB73C1F62216000B6EC13;
+			remoteInfo = MusicPlayer;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		964D0ECC1F623B9100CF1E0B /* B3nte - Trippin (Original Mix).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "B3nte - Trippin (Original Mix).mp3"; sourceTree = "<group>"; };
+		964D0ECD1F623B9100CF1E0B /* Bitch Better Have My Money (Diplo & Grandtheft Remix)OFFICIAL.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Bitch Better Have My Money (Diplo & Grandtheft Remix)OFFICIAL.mp3"; sourceTree = "<group>"; };
+		964D0ECE1F623B9100CF1E0B /* BOIRIA - Stories (Original Mix).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "BOIRIA - Stories (Original Mix).mp3"; sourceTree = "<group>"; };
+		964D0ECF1F623B9100CF1E0B /* Borgore Ft. G-Eazy - Forbes (Prod. By Borgore & Styles&Complete).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Borgore Ft. G-Eazy - Forbes (Prod. By Borgore & Styles&Complete).mp3"; sourceTree = "<group>"; };
+		964D0ED01F623B9100CF1E0B /* Deadmau5 X Dillon Francis - Some Chords (Jauz ReRemix).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Deadmau5 X Dillon Francis - Some Chords (Jauz ReRemix).mp3"; sourceTree = "<group>"; };
+		964D0ED11F623B9100CF1E0B /* Dec3mber & Tryple - Shooting Stars [EDM.com Exclusive].mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Dec3mber & Tryple - Shooting Stars [EDM.com Exclusive].mp3"; sourceTree = "<group>"; };
+		964D0ED21F623B9100CF1E0B /* Dirtyphonics - Since You've Been Gone feat. Matt Rose (Infuze Remix).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Dirtyphonics - Since You've Been Gone feat. Matt Rose (Infuze Remix).mp3"; sourceTree = "<group>"; };
+		964D0ED31F623B9100CF1E0B /* DJ Snake & Moksi - Pigalle (FVCKDIVMONDS Remix).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "DJ Snake & Moksi - Pigalle (FVCKDIVMONDS Remix).mp3"; sourceTree = "<group>"; };
+		964D0ED41F623B9100CF1E0B /* ferrari.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ferrari.mp3; sourceTree = "<group>"; };
+		964D0ED51F623B9100CF1E0B /* Garmiani - Bomb A Drop.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Garmiani - Bomb A Drop.mp3"; sourceTree = "<group>"; };
+		964D0ED61F623B9100CF1E0B /* Get On Up.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Get On Up.mp3"; sourceTree = "<group>"; };
+		964D0ED71F623B9100CF1E0B /* Ghastly - Every Night.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ghastly - Every Night.mp3"; sourceTree = "<group>"; };
+		964D0ED81F623B9100CF1E0B /* Ghastly x Dirty Doses - Shock Value [Thissongissick.com Premiere] [Free Download].mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ghastly x Dirty Doses - Shock Value [Thissongissick.com Premiere] [Free Download].mp3"; sourceTree = "<group>"; };
+		964D0EE61F62476600CF1E0B /* UploadsNewsArticle4949954main.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = UploadsNewsArticle4949954main.jpg; path = ../../../Downloads/UploadsNewsArticle4949954main.jpg; sourceTree = "<group>"; };
+		96BCB73D1F62216000B6EC13 /* MusicPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		96BCB7401F62216000B6EC13 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		96BCB7421F62216000B6EC13 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		96BCB7441F62216000B6EC13 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		96BCB7471F62216100B6EC13 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		96BCB7491F62216100B6EC13 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		96BCB74C1F62216100B6EC13 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		96BCB74E1F62216100B6EC13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96BCB7531F62216100B6EC13 /* MusicPlayerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MusicPlayerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		96BCB7571F62216100B6EC13 /* MusicPlayerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicPlayerTests.swift; sourceTree = "<group>"; };
+		96BCB7591F62216100B6EC13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		96BCB73A1F62216000B6EC13 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		96BCB7501F62216100B6EC13 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		964D0ECB1F623B9100CF1E0B /* songs  */ = {
+			isa = PBXGroup;
+			children = (
+				964D0ECC1F623B9100CF1E0B /* B3nte - Trippin (Original Mix).mp3 */,
+				964D0ECD1F623B9100CF1E0B /* Bitch Better Have My Money (Diplo & Grandtheft Remix)OFFICIAL.mp3 */,
+				964D0ECE1F623B9100CF1E0B /* BOIRIA - Stories (Original Mix).mp3 */,
+				964D0ECF1F623B9100CF1E0B /* Borgore Ft. G-Eazy - Forbes (Prod. By Borgore & Styles&Complete).mp3 */,
+				964D0ED01F623B9100CF1E0B /* Deadmau5 X Dillon Francis - Some Chords (Jauz ReRemix).mp3 */,
+				964D0ED11F623B9100CF1E0B /* Dec3mber & Tryple - Shooting Stars [EDM.com Exclusive].mp3 */,
+				964D0ED21F623B9100CF1E0B /* Dirtyphonics - Since You've Been Gone feat. Matt Rose (Infuze Remix).mp3 */,
+				964D0ED31F623B9100CF1E0B /* DJ Snake & Moksi - Pigalle (FVCKDIVMONDS Remix).mp3 */,
+				964D0ED41F623B9100CF1E0B /* ferrari.mp3 */,
+				964D0ED51F623B9100CF1E0B /* Garmiani - Bomb A Drop.mp3 */,
+				964D0ED61F623B9100CF1E0B /* Get On Up.mp3 */,
+				964D0ED71F623B9100CF1E0B /* Ghastly - Every Night.mp3 */,
+				964D0ED81F623B9100CF1E0B /* Ghastly x Dirty Doses - Shock Value [Thissongissick.com Premiere] [Free Download].mp3 */,
+			);
+			name = "songs ";
+			path = "../../songs ";
+			sourceTree = "<group>";
+		};
+		96BCB7341F62216000B6EC13 = {
+			isa = PBXGroup;
+			children = (
+				96BCB73F1F62216000B6EC13 /* MusicPlayer */,
+				96BCB7561F62216100B6EC13 /* MusicPlayerTests */,
+				96BCB73E1F62216000B6EC13 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		96BCB73E1F62216000B6EC13 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				96BCB73D1F62216000B6EC13 /* MusicPlayer.app */,
+				96BCB7531F62216100B6EC13 /* MusicPlayerTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		96BCB73F1F62216000B6EC13 /* MusicPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				96BCB7401F62216000B6EC13 /* AppDelegate.swift */,
+				96BCB7421F62216000B6EC13 /* FirstViewController.swift */,
+				96BCB7441F62216000B6EC13 /* SecondViewController.swift */,
+				96BCB7461F62216100B6EC13 /* Main.storyboard */,
+				96BCB7491F62216100B6EC13 /* Assets.xcassets */,
+				964D0EE61F62476600CF1E0B /* UploadsNewsArticle4949954main.jpg */,
+				96BCB74B1F62216100B6EC13 /* LaunchScreen.storyboard */,
+				96BCB74E1F62216100B6EC13 /* Info.plist */,
+				964D0ECB1F623B9100CF1E0B /* songs  */,
+			);
+			path = MusicPlayer;
+			sourceTree = "<group>";
+		};
+		96BCB7561F62216100B6EC13 /* MusicPlayerTests */ = {
+			isa = PBXGroup;
+			children = (
+				96BCB7571F62216100B6EC13 /* MusicPlayerTests.swift */,
+				96BCB7591F62216100B6EC13 /* Info.plist */,
+			);
+			path = MusicPlayerTests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		96BCB73C1F62216000B6EC13 /* MusicPlayer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 96BCB75C1F62216100B6EC13 /* Build configuration list for PBXNativeTarget "MusicPlayer" */;
+			buildPhases = (
+				96BCB7391F62216000B6EC13 /* Sources */,
+				96BCB73A1F62216000B6EC13 /* Frameworks */,
+				96BCB73B1F62216000B6EC13 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MusicPlayer;
+			productName = MusicPlayer;
+			productReference = 96BCB73D1F62216000B6EC13 /* MusicPlayer.app */;
+			productType = "com.apple.product-type.application";
+		};
+		96BCB7521F62216100B6EC13 /* MusicPlayerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 96BCB75F1F62216100B6EC13 /* Build configuration list for PBXNativeTarget "MusicPlayerTests" */;
+			buildPhases = (
+				96BCB74F1F62216100B6EC13 /* Sources */,
+				96BCB7501F62216100B6EC13 /* Frameworks */,
+				96BCB7511F62216100B6EC13 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				96BCB7551F62216100B6EC13 /* PBXTargetDependency */,
+			);
+			name = MusicPlayerTests;
+			productName = MusicPlayerTests;
+			productReference = 96BCB7531F62216100B6EC13 /* MusicPlayerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		96BCB7351F62216000B6EC13 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = "Subhamoy Paul";
+				TargetAttributes = {
+					96BCB73C1F62216000B6EC13 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+					96BCB7521F62216100B6EC13 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 96BCB73C1F62216000B6EC13;
+					};
+				};
+			};
+			buildConfigurationList = 96BCB7381F62216000B6EC13 /* Build configuration list for PBXProject "MusicPlayer" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 96BCB7341F62216000B6EC13;
+			productRefGroup = 96BCB73E1F62216000B6EC13 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				96BCB73C1F62216000B6EC13 /* MusicPlayer */,
+				96BCB7521F62216100B6EC13 /* MusicPlayerTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		96BCB73B1F62216000B6EC13 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				964D0EDE1F623B9100CF1E0B /* Dec3mber & Tryple - Shooting Stars [EDM.com Exclusive].mp3 in Resources */,
+				964D0EE01F623B9100CF1E0B /* DJ Snake & Moksi - Pigalle (FVCKDIVMONDS Remix).mp3 in Resources */,
+				964D0EDF1F623B9100CF1E0B /* Dirtyphonics - Since You've Been Gone feat. Matt Rose (Infuze Remix).mp3 in Resources */,
+				964D0EE41F623B9100CF1E0B /* Ghastly - Every Night.mp3 in Resources */,
+				964D0EE71F62476600CF1E0B /* UploadsNewsArticle4949954main.jpg in Resources */,
+				96BCB74D1F62216100B6EC13 /* LaunchScreen.storyboard in Resources */,
+				964D0EE21F623B9100CF1E0B /* Garmiani - Bomb A Drop.mp3 in Resources */,
+				964D0EDD1F623B9100CF1E0B /* Deadmau5 X Dillon Francis - Some Chords (Jauz ReRemix).mp3 in Resources */,
+				96BCB74A1F62216100B6EC13 /* Assets.xcassets in Resources */,
+				964D0EE51F623B9100CF1E0B /* Ghastly x Dirty Doses - Shock Value [Thissongissick.com Premiere] [Free Download].mp3 in Resources */,
+				96BCB7481F62216100B6EC13 /* Main.storyboard in Resources */,
+				964D0EDC1F623B9100CF1E0B /* Borgore Ft. G-Eazy - Forbes (Prod. By Borgore & Styles&Complete).mp3 in Resources */,
+				964D0EE11F623B9100CF1E0B /* ferrari.mp3 in Resources */,
+				964D0EDA1F623B9100CF1E0B /* Bitch Better Have My Money (Diplo & Grandtheft Remix)OFFICIAL.mp3 in Resources */,
+				964D0ED91F623B9100CF1E0B /* B3nte - Trippin (Original Mix).mp3 in Resources */,
+				964D0EDB1F623B9100CF1E0B /* BOIRIA - Stories (Original Mix).mp3 in Resources */,
+				964D0EE31F623B9100CF1E0B /* Get On Up.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		96BCB7511F62216100B6EC13 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		96BCB7391F62216000B6EC13 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96BCB7451F62216000B6EC13 /* SecondViewController.swift in Sources */,
+				96BCB7411F62216000B6EC13 /* AppDelegate.swift in Sources */,
+				96BCB7431F62216000B6EC13 /* FirstViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		96BCB74F1F62216100B6EC13 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96BCB7581F62216100B6EC13 /* MusicPlayerTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		96BCB7551F62216100B6EC13 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 96BCB73C1F62216000B6EC13 /* MusicPlayer */;
+			targetProxy = 96BCB7541F62216100B6EC13 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		96BCB7461F62216100B6EC13 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				96BCB7471F62216100B6EC13 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		96BCB74B1F62216100B6EC13 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				96BCB74C1F62216100B6EC13 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		96BCB75A1F62216100B6EC13 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		96BCB75B1F62216100B6EC13 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		96BCB75D1F62216100B6EC13 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = MusicPlayer/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.MusicPlayer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		96BCB75E1F62216100B6EC13 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = MusicPlayer/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.MusicPlayer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		96BCB7601F62216100B6EC13 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = MusicPlayerTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.MusicPlayerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MusicPlayer.app/MusicPlayer";
+			};
+			name = Debug;
+		};
+		96BCB7611F62216100B6EC13 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = MusicPlayerTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.MusicPlayerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MusicPlayer.app/MusicPlayer";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		96BCB7381F62216000B6EC13 /* Build configuration list for PBXProject "MusicPlayer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				96BCB75A1F62216100B6EC13 /* Debug */,
+				96BCB75B1F62216100B6EC13 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		96BCB75C1F62216100B6EC13 /* Build configuration list for PBXNativeTarget "MusicPlayer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				96BCB75D1F62216100B6EC13 /* Debug */,
+				96BCB75E1F62216100B6EC13 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		96BCB75F1F62216100B6EC13 /* Build configuration list for PBXNativeTarget "MusicPlayerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				96BCB7601F62216100B6EC13 /* Debug */,
+				96BCB7611F62216100B6EC13 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 96BCB7351F62216000B6EC13 /* Project object */;
+}
